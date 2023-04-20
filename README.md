@@ -1,3 +1,8 @@
+Consistent header and footer: https://stackoverflow.com/questions/18712338/make-header-and-footer-files-to-be-included-in-multiple-html-pages
+
+
+
+
 
 Objective: To create a website about cold plunging that provides valuable information to users and generates affiliate income through product recommendations.
 
