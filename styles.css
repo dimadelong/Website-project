@@ -1,11 +1,23 @@
-/* General styling */
+
+
+@media (max-width: 1000px) {
+
+    .image-container img {
+        width: 30%; 
+        height: 60%;
+    }
+}
+
+
+
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #f8f9fa;
     color: #212529;
 }
 
-/* Header styling */
+
+
 header {
     background-color: #007bff;
     padding: 1rem;
@@ -40,7 +52,8 @@ header a:hover {
     text-decoration: underline;
 }
 
-/* Main content styling */
+
+
 main {
     padding: 2rem;
 }
@@ -62,7 +75,9 @@ section a:hover {
     text-decoration: underline;
 }
 
-/* Footer styling */
+
+
+
 footer {
     background-color: #343a40;
     padding: 1rem;
@@ -88,3 +103,17 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+
+
+
+.ic-tub {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .knotlesss, .plungee {
+    width: 300px;
+    height: 200px;
+  }
+  
