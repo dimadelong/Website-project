@@ -6,7 +6,10 @@
         width: 30%; 
         height: 60%;
     }
+    
 }
+/* Webpage is already responsive due to its relative units of positioning, added a media query to display knowledge of the concept  */
+
 
 
 
@@ -15,6 +18,7 @@ body {
     background-color: #f8f9fa;
     color: #212529;
 }
+
 
 
 
